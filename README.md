@@ -4,8 +4,8 @@ SPARKLE is a fast and simple KBQA framework that uses one single sequence-to-seq
 The structural information in knowledge base is directly utilized within constrained decoding.
 
 <p align="center">
-  <img src="./figures/method_trie.png" height="100" width="45.9%" />
-  <img src="./figures/method_link.png" height="100" width="44.1%" /> 
+  <img src="https://imgur.com/lpApbge.png" height="100" width="45.9%" />
+  <img src="https://imgur.com/y7lEy93.png" height="100" width="44.1%" /> 
 </p>
 
 ## Installation
