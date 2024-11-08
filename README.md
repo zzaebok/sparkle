@@ -2,6 +2,7 @@
 
 SPARKLE is a fast and simple KBQA framework that uses one single sequence-to-sequence model.
 The structural information in knowledge base is directly utilized within constrained decoding.
+This is the official implementation of our paper "SPARKLE: Enhancing SPARQL Generation with Direct KG Integration in Decoding", [arxiv](https://arxiv.org/pdf/2407.01626)
 
 <p align="center">
   <img src="https://imgur.com/lpApbge.png" height="100" width="45.9%" />
